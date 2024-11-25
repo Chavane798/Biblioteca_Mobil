@@ -1,0 +1,30 @@
+# Ignorar node_modules e pacotes desnecessários
+node_modules/
+.expo/
+.cache/
+dist/
+web-build/
+
+# Ignorar arquivos de cache e do sistema
+*.sock
+*.socket
+*.db
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+.DS_Store
+
+# Ignorar configurações locais
+*.env.local
+*.env.development
+*.env.test
+*.env.production
+
+# Ignorar arquivos de build nativos e outros
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem

@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "biblioteca_chavane798",
+    "slug": "snack-c647d64f-e1ac-4aca-9f34-5cc276d0695c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.chavane798.snackc647d64fe1ac4aca9f345cc276d0695c"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Biblioteca Oline da area de desenvolvimento de software",
+    "extra": {
+      "eas": {
+        "projectId": "8c6765c5-e3fb-4c63-a88f-2ef98a15051b"
+      }
+    }
+  }
+}
